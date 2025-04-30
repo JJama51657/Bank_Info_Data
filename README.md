@@ -12,7 +12,7 @@
   <li><strong>Excel:</strong> Organized, validated, and reshaped data for easier import into visualization tools. Conducted preliminary pivot table exploration.</li>
   <li><strong>Power BI:</strong> Created dynamic dashboards and interactive visuals to showcase transaction trends across transaction types, channels, years, and geographical locations.</li>
 </ul>
-  <a href="https://1drv.ms/x/s!An67a9ob6C1xdrTd6UrcQ7wzOgE?e=IrgBrQ"> Click here For Excel Sheet<\a>
+  <a href="https://1drv.ms/x/s!An67a9ob6C1xdrTd6UrcQ7wzOgE?e=IrgBrQ"> Click here For Excel Sheet
 
 <h2>Key Highlights</h2>
 <ul>
