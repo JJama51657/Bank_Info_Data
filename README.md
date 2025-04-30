@@ -24,9 +24,9 @@
 
 <h2>Tools & Technologies</h2>
 <ul>
-  <li>Python (Pandas, NumPy)</li>
+  <li>Python (Pandas)</li>
   <li>SQL (Joins, Aggregations, Filtering)</li>
-  <li>Excel (Data Cleaning, Pivot Tables)</li>
+  <li>Excel (Data Cleaning)</li>
   <li>Power BI (Interactive Reports and Dashboards)</li>
 </ul>
 
