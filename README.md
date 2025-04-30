@@ -1,67 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>High-Value Transaction Detection Project</title>
-</head>
-<body>
-  <h1>High-Value Transaction Detection Project</h1>
+<h1>Bank Transaction Data Analysis Project</h1>
 
-  <p>This project tracks the full data pipeline from raw data processing to final visualization, using Python, SQL, Excel, and Power BI.</p>
+<h2>Objective</h2>
+<p>
+  The goal of this project was to perform a comprehensive analysis of bank transaction data to uncover patterns, trends, and insights related to customer behavior, transaction types, channels, and geographic distribution. The focus was not limited to detecting anomalies, but aimed at providing a broad understanding of transaction activities across multiple dimensions.
+</p>
 
-  <h2>Project Overview</h2>
-  <ul>
-    <li><strong>Objective:</strong> Detect unusually large financial transactions by comparing each transaction against the average for its channel (ATM, Branch, Online).</li>
-    <li><strong>Tools Used:</strong> Python, SQL, Excel, Power BI</li>
-    <li><strong>Focus Areas:</strong> Data Cleaning, Data Integration, Anomaly Detection, Business Insights</li>
-  </ul>
+<h2>Project Workflow</h2>
+<ul>
+  <li><strong>Python:</strong> Cleaned and pre-processed raw transaction data, handled missing values, and prepared datasets for analysis.</li>
+  <li><strong>SQL:</strong> Performed deeper data cleaning, transformation, and aggregation using SQL queries. Joined datasets to combine transactional and channel-level information for richer analysis.</li>
+  <li><strong>Excel:</strong> Organized, validated, and reshaped data for easier import into visualization tools. Conducted preliminary pivot table exploration.</li>
+  <li><strong>Power BI:</strong> Created dynamic dashboards and interactive visuals to showcase transaction trends across transaction types, channels, years, and geographical locations.</li>
+</ul>
 
-  <h2>Steps and Technologies</h2>
-  <ul>
-    <li><strong>Python:</strong>
-      <ul>
-        <li>Imported raw transaction data (CSV files).</li>
-        <li>Performed initial data cleaning: removed duplicates, handled missing values, standardized date formats.</li>
-        <li>Exported cleaned datasets for SQL processing.</li>
-      </ul>
-    </li>
-    <li><strong>SQL:</strong>
-      <ul>
-        <li>Created a transactional database structure.</li>
-        <li>Aggregated transaction amounts by channel to compute average values.</li>
-        <li>Performed INNER JOIN between transaction records and channel statistics.</li>
-        <li>Flagged transactions significantly higher than their channel's average.</li>
-      </ul>
-    </li>
-    <li><strong>Excel:</strong>
-      <ul>
-        <li>Loaded cleaned and joined data into Excel for validation and exploratory analysis.</li>
-        <li>Created pivot tables and basic charts to check data integrity and identify early patterns.</li>
-      </ul>
-    </li>
-    <li><strong>Power BI:</strong>
-      <ul>
-        <li>Built an interactive dashboard showcasing high-value transactions.</li>
-        <li>Visualized transaction amounts by channel and flagged anomalies.</li>
-        <li>Added filters for dynamic exploration by transaction type, channel, and time period.</li>
-      </ul>
-    </li>
-  </ul>
+<h2>Key Highlights</h2>
+<ul>
+  <li>Identified the most commonly used transaction types and channels.</li>
+  <li>Analyzed transaction amounts over different years to detect changes in customer behavior.</li>
+  <li>Explored the geographic distribution of transactions to understand regional trends.</li>
+  <li>Flagged unusually large transactions by comparing individual transactions to channel averages.</li>
+  <li>Built visualizations to present actionable insights for potential business strategies and operational improvements.</li>
+</ul>
 
-  <h2>Key Results</h2>
-  <ul>
-    <li>Identified outlier transactions that may indicate fraud, VIP customers, or operational issues.</li>
-    <li>Provided visual tools for business stakeholders to monitor transaction patterns across channels.</li>
-  </ul>
+<h2>Tools & Technologies</h2>
+<ul>
+  <li>Python (Pandas, NumPy)</li>
+  <li>SQL (Joins, Aggregations, Filtering)</li>
+  <li>Excel (Data Cleaning, Pivot Tables)</li>
+  <li>Power BI (Interactive Reports and Dashboards)</li>
+</ul>
 
-  <h2>Skills Demonstrated</h2>
-  <ul>
-    <li>Data Cleaning and Preprocessing</li>
-    <li>SQL Joins and Aggregations</li>
-    <li>Data Validation in Excel</li>
-    <li>Dashboard Design and Visualization in Power BI</li>
-    <li>End-to-End Data Pipeline Development</li>
-  </ul>
-
-</body>
-</html>
+<h2>Outcome</h2>
+<p>
+  The project successfully delivered a multi-dimensional view of bank transactions, helping to identify key usage patterns, channel preferences, geographic behaviors, and potential outliers. These insights can support decision-making processes for improving customer services, detecting anomalies, and developing strategic financial products.
+</p>
