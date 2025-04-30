@@ -10,6 +10,7 @@
   <li><strong>Python:</strong> Cleaned and pre-processed raw transaction data, handled missing values, and prepared datasets for analysis.</li>
   <li><strong>SQL:</strong> Performed deeper data cleaning, transformation, and aggregation using SQL queries. Joined datasets to combine transactional and channel-level information for richer analysis.</li>
   <li><strong>Excel:</strong> Organized, validated, and reshaped data for easier import into visualization tools. Conducted preliminary pivot table exploration.</li>
+  <a href="https://1drv.ms/x/s!An67a9ob6C1xdrTd6UrcQ7wzOgE?e=IrgBrQ"> Click here For Excel Sheet<\a>
   <li><strong>Power BI:</strong> Created dynamic dashboards and interactive visuals to showcase transaction trends across transaction types, channels, years, and geographical locations.</li>
 </ul>
 
