@@ -18,7 +18,7 @@ Analyzed large-scale banking transaction datasets to identify trends in transact
 | SQL                | Advanced querying & aggregation  |
 | Power BI           | Interactive data visualization   |
 | Excel              | Data export & manual analysis    |
-| Geospatial Analysis| Mapping transaction volumes      |
+| Geospatial and Time-Series Analysis| Highlighting Customer data across regions and time periods      |
 
 ---
 
