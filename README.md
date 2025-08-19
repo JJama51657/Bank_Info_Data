@@ -6,7 +6,7 @@ An in-depth analysis project of bank transaction data aimed at uncovering custom
 
 ## 🔍 Project Overview
 
-Analyzed large-scale banking transaction datasets to identify trends in transaction types, customer behavior, usage channels, and geographic patterns. Built interactive dashboards for monitoring key metrics and detecting anomalies such as fraudulent transactions.
+Helped a retail bank identify fraud patterns and customer behavior trends to improve risk management and product targeting
 
 ---
 
